@@ -47,7 +47,7 @@ const Services = () => {
     {
       id: 'talento-humano',
       icon: Users,
-      title: 'TalentFlow Pro',
+      title: 'VeltPro',
       subtitle: 'Gestión integral del talento humano con automatización inteligente',
       description: 'Nuestra plataforma SaaS especializada en gestión de talento humano automatiza todos los procesos de RRHH, desde la liquidación de nóminas hasta el control de asistencia y cálculo de prestaciones.',
       features: [
@@ -58,14 +58,14 @@ const Services = () => {
         'Cálculo automático de prima y cesantías',
         'Reportes y analytics avanzados'
       ],
-      technologies: ['React', 'Node.js', 'MongoDB', 'Redis', 'Docker', 'Kubernetes'],
+      technologies: ['Angular', 'Java', 'Postgres', 'Redis', 'Docker', 'Kubernetes'],
       color: 'from-green-500 to-blue-600',
       bgColor: 'bg-green-50'
     },
     {
       id: 'inmobiliario',
       icon: Building,
-      title: 'PropertyQuote',
+      title: 'VelSuite',
       subtitle: 'Cotizador inmobiliario avanzado para constructores y desarrolladores',
       description: 'Herramienta especializada para el sector inmobiliario que permite cotizar proyectos, gestionar reservas y separaciones, y mantener un control completo del inventario de propiedades.',
       features: [
@@ -76,7 +76,7 @@ const Services = () => {
         'Integración con CRM inmobiliario',
         'Dashboard ejecutivo personalizable'
       ],
-      technologies: ['Vue.js', 'Laravel', 'MySQL', 'Redis', 'Elasticsearch', 'AWS'],
+      technologies: ['React.js', 'Java', 'MySQL', 'Redis', 'MongoDB', 'AWS'],
       color: 'from-orange-500 to-red-600',
       bgColor: 'bg-orange-50'
     },
@@ -94,7 +94,7 @@ const Services = () => {
         'Integración con APIs externas',
         'PWA (Progressive Web App) capabilities'
       ],
-      technologies: ['React', 'Vue.js', 'Angular', 'TypeScript', 'Tailwind CSS', 'Vite'],
+      technologies: ['React', 'Vue.js', 'Angular', 'TypeScript', 'Tailwind CSS', 'Vite', 'Animate'],
       color: 'from-purple-500 to-pink-600',
       bgColor: 'bg-purple-50'
     }

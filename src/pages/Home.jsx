@@ -24,14 +24,14 @@ const Home = () => {
     },
     {
       icon: Users,
-      title: 'TalentFlow Pro',
+      title: 'VeltPro',
       description: 'Gestión integral del talento humano con automatización inteligente',
       color: 'from-green-500 to-blue-600',
       delay: 0.2
     },
     {
       icon: Building,
-      title: 'PropertyQuote',
+      title: 'VelSuite',
       description: 'Cotizador inmobiliario avanzado para constructores y desarrolladores',
       color: 'from-orange-500 to-red-600',
       delay: 0.3
