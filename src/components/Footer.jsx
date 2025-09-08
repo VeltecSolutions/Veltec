@@ -20,8 +20,8 @@ const Footer = () => {
   const footerLinks = {
     servicios: [
       { name: 'Desarrollo de Software', path: '/servicios#desarrollo' },
-      { name: 'TalentFlow Pro', path: '/servicios#talento-humano' },
-      { name: 'PropertyQuote', path: '/servicios#inmobiliario' },
+      { name: 'VelPro', path: '/servicios#talento-humano' },
+      { name: 'VelSuite', path: '/servicios#inmobiliario' },
       { name: 'SPAs Avanzadas', path: '/servicios#spas' },
     ],
     empresa: [
@@ -39,9 +39,9 @@ const Footer = () => {
   };
 
   const socialLinks = [
-    { name: 'LinkedIn', icon: Linkedin, href: 'https://linkedin.com/company/veltec-solutions' },
+    { name: 'LinkedIn', icon: Linkedin, href: 'https://www.linkedin.com/in/oliverosdev' },
     { name: 'Twitter', icon: Twitter, href: 'https://twitter.com/veltecsolutions' },
-    { name: 'GitHub', icon: Github, href: 'https://github.com/veltec-solutions' },
+    // { name: 'GitHub', icon: Github, href: 'https://github.com/veltec-solutions' },
   ];
 
   return (
