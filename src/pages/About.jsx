@@ -57,7 +57,7 @@ const About = () => {
     {
       name: 'Alejandro López Oliveros',
       role: 'CEO & Fundador',
-      image: '/src/assets/profile.jpeg',
+      image: 'src/assets/profile.jpeg',
       description: 'Más de 10 años de experiencia en desarrollo de software y liderazgo tecnológico.'
     }
     // {
